@@ -1,0 +1,108 @@
+.headingdiff
+{
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.content1
+{
+    position: relative;
+    right:100px;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 100px;
+    text-align: justify;
+}
+.imagewrapper1
+{
+    position: relative;
+    
+}
+ .imagewrapper1 img
+{
+    height: 200px;
+    width: 300px;
+} 
+.imagewrapper1 p
+{
+    font-weight: bold;
+   background-color: rgba(0,0,0,0.3);
+   color: white;
+   position: absolute;
+   bottom: 0;
+   width:300px;
+   text-align: center;
+   font-size: 20px;
+}
+
+.imagewrapper2
+{
+    margin-top: 50px;
+    position: relative;
+    
+}
+ .imagewrapper2 img
+{
+    text-align: center;
+    height: 200px;
+    width: 300px;
+} 
+.imagewrapper2 p
+{
+    font-weight: bold;
+   background-color: rgba(0,0,0,0.8);
+   color: white;
+   position: absolute;
+   bottom: 0;
+   width:300px;
+   text-align: center;
+   font-size: 20px;
+}
+.content2
+{
+    margin-top: 70px;
+    position: relative;
+    width:700px;
+    left:100px;
+    font-size: 20px;
+    text-align: justify;
+
+}
+
+.imagewrapper3
+{
+    margin-top: 50px;
+    position: relative;
+    
+}
+ .imagewrapper3 img
+{
+    margin-left: 35%;
+    height: 200px;
+    width: 300px;
+} 
+.imagewrapper3 p
+{
+    margin-left: 35%;
+    font-weight: bold;
+   background-color: rgba(0,0,0,0.3);
+   color: white;
+   position: absolute;
+   bottom: 0;
+   width:300px;
+   text-align: center;
+   font-size: 20px;
+}
+.head 
+{
+    font-weight: bold;
+    transition: all 0.5s ease;
+}
+ .head:hover
+{
+    background-color:aqua;
+    color: black;
+} 

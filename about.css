@@ -1,0 +1,80 @@
+.abouttext
+{
+    font-size: 20px;
+    text-align: center;
+    margin:50px 0 50px 0;
+
+}
+.abouttext2
+{
+    font-size: 20px;
+    text-align: justify;
+    margin: 0 0 50px 0;
+}
+.heading{
+    text-align: center;
+}
+.abouttext2div
+{
+    margin:50px 0;
+}
+.Imgmission
+{
+    height: 250px;
+    width:400px;
+    transition: all 3s ease;
+}
+/* .Imgmission:hover
+{
+    transform: translateX(150px);
+} */
+
+ .Imgmission1
+{
+    height: 250px;
+    width:400px;
+    position:relative;
+    left:35%;
+}
+/* .Imgmission1:hover
+{
+    transform: translateX(-150px);
+}  */
+.headingdiff
+{
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 50px;
+    text-align: center;
+}
+.headings
+{
+    text-align: center;
+    margin-top: 50px;
+    font-weight: bold;
+    transition: all 0.5s ease-in;
+}
+.content
+{
+    font-size: 20px;
+    text-align: justify;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.diffdivision .headings:hover{
+    background-color: blueviolet;
+    color: white;
+}
+.Approachcontent
+{
+    margin-top: 50px;
+}
+.ccimg
+{
+    height: 250px;
+    width:250px;
+    position: relative;
+    left:50px;
+
+}
